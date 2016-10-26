@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Lamberto Diwa <lamberto.diwa@dimensiondata.com>
+MAINTAINER Lamberto Diwa <lambertodiwajr@gmail.com>
 
 # Prevent dpkg errors
 ENV TERM=xterm-256-color
